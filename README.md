@@ -1,8 +1,5 @@
 # 📊 Data Warehouse & Data Mining Project – Netflix Analytics with KNIME
 
-## 👨‍💻 Team Members:
-- **Tejas Mahakalkar – Roll No. 76**
-- **Aditya Gaikwad – Roll No. 71**
 
 ## 📝 Project Overview
 This project demonstrates how the **KNIME Analytics Platform** simplifies the entire data analysis workflow — from **data cleaning and preprocessing** to **clustering and visualization** — without any need for coding. 
