@@ -77,3 +77,7 @@ KNIME is a powerful and beginner-friendly platform for building complete data an
 ## 📌 Note
 To run this project, download [KNIME](https://www.knime.com/downloads) and import the `.knwf` file provided in the repository.
 
+
+🎬 [Watch Project Demo (GitHub Release)](https://github.com/Tejas3104/Netflix-Analytics-with-KNIME/releases)
+
+
